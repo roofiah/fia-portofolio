@@ -1,0 +1,35 @@
+img {
+  max-width: 100%;
+  border-radius: 1px;
+}
+.img-raised {
+  box-shadow: $box-shadow-raised;
+}
+
+.card-parent {
+  position: relative;
+  .card-absolute {
+    display: none;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9;
+    -webkit-transition: 0.2s all;
+  }
+  img {
+    -webkit-transition: 0.2s all;
+  }
+  &:hover {
+    img {
+      filter: brightness(50%);
+      -webkit-filter: brightness(50%);
+    }
+    .card-absolute {
+      display: block;
+    }
+  }
+}
