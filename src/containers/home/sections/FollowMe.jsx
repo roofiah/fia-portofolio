@@ -17,7 +17,7 @@ const FollowMe = () => {
           <Collapse isOpen={isOpen}>
             <Button
               className="btn-round btn-icon"
-              color="primary"
+              color="default"
               onClick={() => {
                 window.open('https://github.com/roofiah');
               }}
@@ -31,7 +31,7 @@ const FollowMe = () => {
             </UncontrolledTooltip>
             <Button
               className="btn-round btn-icon"
-              color="primary"
+              color="default"
               id="tooltip340339231"
               size="lg"
               onClick={() => {
@@ -45,7 +45,7 @@ const FollowMe = () => {
             </UncontrolledTooltip>
             <Button
               className="btn-round btn-icon"
-              color="primary"
+              color="default"
               id="tooltip340339233"
               size="lg"
               onClick={() => {

@@ -8,7 +8,7 @@ const About = () => (
       <h3 className="title">About me</h3>
     </Fade>
     <Fade ssrFadeout top>
-      <h5 className="description">
+      <h5 className="description text-primary">
       A mobile and front-end developer with 2+ years of experience developing, 
       managing, and maintaining simple to complex mobile applications and website. 
       Specialize in React Native and React JS
