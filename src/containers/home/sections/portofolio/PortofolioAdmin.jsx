@@ -10,8 +10,14 @@ const listOne = [
   },
   {
     id: 2,
-    img: 'admin-riliv.png',
-    title: 'Riliv Admin',
+    img: 'admin-virtual-showroom_1.jpg',
+    title: 'Virtual Showroom Admin',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+  },
+  {
+    id: 2,
+    img: 'mjd-amartha.jpg',
+    title: 'Menjadi Amartha',
     tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   }
 ];
@@ -19,16 +25,23 @@ const listOne = [
 const listTwo = [
   {
     id: 1,
+    img: 'admin-riliv.png',
+    title: 'Riliv Admin',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+  },
+  {
+    id: 2,
+    img: 'admin-daxium-chat.png',
+    title: 'Daxium Admin Chat',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
+  },
+  {
+    id: 3,
     img: 'admin-redwhite.png',
     title: 'Red White',
     tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
-  {
-    id: 3,
-    img: 'admin-daxium-chat.png',
-    title: 'Daxium Admin Chat',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
-  }
+
 ];
 
 const PortofolioAdmin = () => (
