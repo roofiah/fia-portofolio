@@ -21,14 +21,12 @@ const listOne = [
     img: 'wahyoo.png',
     title: 'WAHYOO WARUNG APP',
     tag: ['React Native'],
-    // url: 'https://play.google.com/store/apps/details?id=com.twiscode.stellar.dev'
   },
   {
     id: 4,
     img: 'hubblesafety.jpg',
     title: 'HUBBLE SAFETY APP',
     tag: ['React Native'],
-    // url: 'https://play.google.com/store/apps/details?id=com.twiscode.fkunair'
   }
 ];
 
@@ -52,7 +50,6 @@ const listTwo = [
     img: 'playingviral_1.png',
     title: 'PLAYING VIRAL APP',
     tag: ['React Native'],
-    // url: 'https://play.google.com/store/apps/details?id=com.twiscode.fkunair'
   }
 ];
 

@@ -10,25 +10,26 @@ const listOne = [
   },
   {
     id: 2,
-    img: 'admin-riliv.png',
-    title: 'Riliv Admin',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    img: 'admin-daxium-chat.png',
+    title: 'Daxium Admin Chat',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
   }
 ];
 
 const listTwo = [
   {
     id: 1,
+    img: 'admin-riliv.png',
+    title: 'Riliv Admin',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+  },
+  {
+    id: 2,
     img: 'admin-redwhite.png',
     title: 'Red White',
     tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
-  {
-    id: 3,
-    img: 'admin-daxium-chat.png',
-    title: 'Daxium Admin Chat',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
-  }
+
 ];
 
 const PortofolioAdmin = () => (
