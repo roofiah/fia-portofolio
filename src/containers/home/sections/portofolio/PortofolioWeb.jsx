@@ -10,16 +10,17 @@ const listOne = [
   },
   {
     id: 2,
+    img: 'mandiri-oao.png',
+    title: 'Mandiri OAO',
+    tag: ['React JS', 'SCSS', 'HTML', 'Next JS'],
+    url: 'https://register.most.co.id/'
+  },
+  {
+    id: 3,
     img: 'steadfast.png',
     title: 'Steadfast',
     tag: ['Wordpress', 'CSS', 'HTML'],
     url: 'https://www.steadfastmoneytransfer.com/'
-  },
-  {
-    id: 4,
-    img: 'mandiri-ivr.png',
-    title: 'Mandiri IVR',
-    tag: ['React JS', 'CSS', 'HTML', 'Next JS']
   }
 ];
 
@@ -39,10 +40,9 @@ const listTwo = [
   },
   {
     id: 3,
-    img: 'mandiri-oao.png',
-    title: 'Mandiri OAO',
-    tag: ['React JS', 'SCSS', 'HTML', 'Next JS'],
-    url: 'https://register.most.co.id/'
+    img: 'mandiri-ivr.png',
+    title: 'Mandiri IVR',
+    tag: ['React JS', 'CSS', 'HTML', 'Next JS']
   }
 ];
 
