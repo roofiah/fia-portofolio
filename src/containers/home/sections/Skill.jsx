@@ -46,8 +46,8 @@ const Skill = () => (
               </div>
               <div className="progress-container progress-success">
                 <span className="progress-badge">Next JS</span>
-                <Progress max="100" value="80">
-                  <span className="progress-value">80%</span>
+                <Progress max="100" value="70">
+                  <span className="progress-value">70%</span>
                 </Progress>
               </div>
             </Col>

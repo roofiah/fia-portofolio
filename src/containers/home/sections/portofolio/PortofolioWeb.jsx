@@ -15,13 +15,6 @@ const listOne = [
     tag: ['React JS', 'SCSS', 'HTML', 'Next JS'],
     url: 'https://register.most.co.id/'
   },
-  {
-    id: 3,
-    img: 'steadfast.png',
-    title: 'Steadfast',
-    tag: ['Wordpress', 'CSS', 'HTML'],
-    url: 'https://www.steadfastmoneytransfer.com/'
-  }
 ];
 
 const listTwo = [
@@ -40,10 +33,17 @@ const listTwo = [
   },
   {
     id: 3,
-    img: 'mandiri-ivr.png',
-    title: 'Mandiri IVR',
-    tag: ['React JS', 'CSS', 'HTML', 'Next JS']
+    img: 'steadfast.png',
+    title: 'Steadfast',
+    tag: ['Wordpress', 'CSS', 'HTML'],
+    url: 'https://www.steadfastmoneytransfer.com/'
   }
+  // {
+  //   id: 3,
+  //   img: 'mandiri-ivr.png',
+  //   title: 'Mandiri IVR',
+  //   tag: ['React JS', 'CSS', 'HTML', 'Next JS']
+  // }
 ];
 
 const PortofolioWeb = () => (

@@ -13,6 +13,12 @@ const listOne = [
     img: 'admin-virtual-showroom_1.jpg',
     title: 'Virtual Showroom Admin',
     tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+  },
+  {
+    id: 2,
+    img: 'mjd-amartha.jpg',
+    title: 'Menjadi Amartha',
+    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   }
 ];
 
