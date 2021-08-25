@@ -28,34 +28,6 @@ const About = () => (
         Download My Resume
       </Button>
     </div>
-     <div className="text-center w-100">
-      <Button
-        className="btn-round"
-        color="default"
-        size="lg"
-        onClick={() => {
-          if (process.browser) {
-            window.open('/images/data.txt');
-          }
-        }}
-      >
-        data dummy
-      </Button>
-    </div>
-    <div className="text-center w-100">
-      <Button
-        className="btn-round"
-        color="default"
-        size="lg"
-        onClick={() => {
-          if (process.browser) {
-            window.open('/images/db.json');
-          }
-        }}
-      >
-        data dummy
-      </Button>
-    </div>
   </div>
 );
 
