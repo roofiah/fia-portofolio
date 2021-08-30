@@ -36,7 +36,7 @@ const Header = () => {
             <img alt="..." src={require('@images/my_photo.JPG')} />
           </div>
           <Reveal effect="fadeInUp" ssrFadeout>
-            <h3 className="title">Rofiatul Adawiyah</h3>
+            <h3 className="title">Rofi'atul Adawiyah</h3>
             <p className="category">Mobile and Front-end Web Developer</p>
           </Reveal>
         </Container>
