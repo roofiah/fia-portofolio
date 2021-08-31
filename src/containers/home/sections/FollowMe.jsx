@@ -51,7 +51,7 @@ const FollowMe = () => {
               id="tooltip340339231"
               size="lg"
               onClick={() => {
-                window.open('https://www.instagram.com/yayah_ra/');
+                window.open('https://www.instagram.com/fiaadawiyah/');
               }}
             >
               <i className="fab fa-instagram" />
