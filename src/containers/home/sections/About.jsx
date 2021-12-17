@@ -21,7 +21,7 @@ const About = () => (
         size="lg"
         onClick={() => {
           if (process.browser) {
-            window.open('/images/yayah_resume.pdf');
+            window.open('/images/fiaadawiyah_resume.pdf');
           }
         }}
       >
