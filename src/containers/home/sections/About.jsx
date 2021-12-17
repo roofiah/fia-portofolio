@@ -9,9 +9,9 @@ const About = () => (
     </Fade>
     <Fade ssrFadeout top>
       <h5 className="description text-primary">
-      A mobile and front-end developer with 2+ years of experience developing, 
-      managing, and maintaining simple to complex mobile applications and website. 
-      Specialize in React Native and React JS
+        A mobile and front-end developer with 2+ years of experience developing,
+        managing, and maintaining simple to complex mobile applications and website.
+        Specialize in React Native and React JS
       </h5>
     </Fade>
     <div className="text-center w-100">
@@ -21,7 +21,7 @@ const About = () => (
         size="lg"
         onClick={() => {
           if (process.browser) {
-            window.open('/images/fia_resume.pdf');
+            window.open('/images/yayah_resume.pdf');
           }
         }}
       >
