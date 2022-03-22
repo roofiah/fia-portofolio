@@ -6,19 +6,22 @@ const listOne = [
     id: 1,
     img: 'admin-amartha.png',
     title: 'Amartha Admin',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
   {
     id: 2,
     img: 'admin-virtual-showroom_1.jpg',
     title: 'Virtual Showroom Admin',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
   {
     id: 2,
     img: 'mjd-amartha.jpg',
     title: 'Menjadi Amartha',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   }
 ];
 
@@ -27,19 +30,22 @@ const listTwo = [
     id: 1,
     img: 'admin-riliv.png',
     title: 'Riliv Admin',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
   {
     id: 2,
     img: 'admin-daxium-chat.png',
     title: 'Daxium Admin Chat',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API', 'Firebase']
   },
   {
     id: 3,
     img: 'admin-redwhite.png',
     title: 'Red White',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
 
 ];
