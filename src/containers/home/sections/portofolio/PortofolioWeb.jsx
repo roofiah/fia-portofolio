@@ -6,13 +6,15 @@ const listOne = [
     id: 1,
     img: 'legocar.png',
     title: 'Virtual Showroom',
-    tag: ['React JS', 'SCSS', 'HTML', 'REST API']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML', 'REST API']
   },
   {
     id: 2,
     img: 'mandiri-oao.png',
     title: 'Mandiri OAO',
-    tag: ['React JS', 'SCSS', 'HTML', 'Next JS'],
+    tag: ['React JS'],
+    // tag: ['React JS', 'SCSS', 'HTML', 'Next JS'],
     url: 'https://register.most.co.id/'
   },
 ];
@@ -22,20 +24,23 @@ const listTwo = [
     id: 1,
     img: 'gonegolfing.png',
     title: 'Gone Golfing',
-    tag: ['React JS', 'SCSS', 'HTML']
+    tag: ['React JS']
+    // tag: ['React JS', 'SCSS', 'HTML']
   },
   {
     id: 2,
     img: 'amartha.png',
     title: 'Amartha',
-    tag: ['Wordpress', 'SCSS', 'HTML', 'SOAP API'],
+    tag: ['Wordpress'],
+    // tag: ['Wordpress', 'SCSS', 'HTML', 'SOAP API'],
     url: 'https://amartha.com/id_ID/'
   },
   {
     id: 3,
     img: 'steadfast.png',
     title: 'Steadfast',
-    tag: ['Wordpress', 'CSS', 'HTML'],
+    tag: ['Wordpress'],
+    // tag: ['Wordpress', 'CSS', 'HTML'],
     url: 'https://www.steadfastmoneytransfer.com/'
   }
   // {

@@ -27,6 +27,7 @@ const listOne = [
     img: 'hubblesafety.jpg',
     title: 'HUBBLE SAFETY APP',
     tag: ['React Native'],
+    url: 'https://play.google.com/store/apps/details?id=sg.hubble.safety'
   }
 ];
 
@@ -36,7 +37,7 @@ const listTwo = [
     img: 'box in.jpg',
     title: 'BOX-IN APP',
     tag: ['React Native'],
-    url: 'https://play.google.com/store/apps/details?id=com.twiscode.fkunair'
+    url: 'https://play.google.com/store/apps/details?id=com.twiscode.boxin'
   },
   {
     id: 2,
